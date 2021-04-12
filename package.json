@@ -1,0 +1,14 @@
+{
+  "name": "modular-bot-guide",
+  "version": "0.0.1-dev",
+  "main": "index.js",
+  "engines": {
+    "node": ">=12.x"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
